@@ -6,7 +6,7 @@ namespace codility_maximum_value
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Happy World!!");
+            Console.WriteLine("Hello Happy New World!!");
         }
     }
 
